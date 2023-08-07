@@ -1,0 +1,43 @@
+[
+  { "name": "bug", "color": "F4EEBC", "description": "버그" },
+  {
+    "name": "client",
+    "color": "F3DEB3",
+    "description": "프론트 관련 라벨"
+  },
+  {
+    "name": "docs",
+    "color": "F3CBA8",
+    "description": "문서"
+  },
+  {
+    "name": "performance",
+    "color": "EFBBA3",
+    "description": "성능 개선"
+  },
+  {
+    "name": "refactor",
+    "color": "EFB5AA",
+    "description": "리팩토링"
+  },
+  {
+    "name": "server",
+    "color": "EEB6B7",
+    "description": "백엔드 관련 라벨"
+  },
+  {
+    "name": "setting",
+    "color": "EDB8C8",
+    "description": "세팅"
+  },
+  {
+    "name": "style",
+    "color": "E5B7D1",
+    "description": "UI 및 디자인"
+  },
+  {
+    "name": "test",
+    "color": "D1B0CF",
+    "description": "테스트 코드"
+  }
+]
